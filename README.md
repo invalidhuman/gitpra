@@ -9,4 +9,4 @@ third changes
 fourth changes
 
 
-i am capable human
+i am capable human (this is merged text)
